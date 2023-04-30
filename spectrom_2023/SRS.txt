@@ -1,0 +1,56 @@
+1. Introduction
+This document lays out a project plan for the development of the “SpectrOM Website - 2023” Managed By Prof. Vatsal A. Dharek. The intended readers of this document are 
+current and future developers working on “SpectrOM Website - 2023” and the sponsors of the project. The plan will include, but is not restricted to, a summary of the 
+system functionality, the scope of the project from the perspective of the “SpectrOM Website - 2023” team (ME and my Students), scheduling and delivery estimates, project 
+risks, and how those risks will be mitigated, the process by which I will develop the project, and metrics and measurements that will be recorded throughout the project.
+2. Overview
+In today’s world, an Online front for any event or organization is most important. As that is the main point of contact for the outside world. Also a impresion and trust 
+of the website is the most important for the success of the event. So there is a dire need of a detailed self-sufficient website that can entertain the participants and 
+also that is helpful for all to manage the event with nessasury data and process.
+2.1 Customers
+Participants
+Event Coordinators
+Organizers 
+2.2 Functionality
+Participants Need to be able to view the website, check the schedule, explore the events, and also can register and pay the participation fee through integrated payment 
+gateway.
+
+	There must be a centralized system to check participants count, payment status, also the system should be in place to manage participants on the day of event and 
+send them certificates.
+
+	There must be an interactive front that will change based on the timeline of events like, participation, registration, day of event and event completion.
+
+
+2.3 Platform
+It will be a website that will be made up with Django Python as backend and Making use of Front-end libraries for making it more user friendly, and interesting,
+
+Main concern should be the speed and performance of the website, to lock in on the new visitors by grabbing their attention.
+2.4 Development Responsibility
+	I, Prof. Vatsal  A. Dharek Will be the Project Manager and Owner of the Portal.
+	There will be 3 teams as following,
+Backend Team - will be responsible for making all data transactions, Payment integration, and Response time for the apis.
+Frontend Team - will be responsible for Overall UI of Website, Day by Day changing layout based on days of event. Also the responsible party for all front end related 
+issues.
+Testing and Form Submission - Will be the responsible for all the forms in the system, requirement gathering and process analysis, that will be crucial as the day of event 
+is very hectic and need a preplanning of the all operations.
+3. Goals and Scopes
+Major Goals will be an online process to register without any manual action needed.
+List of participants, and status view for organizers. 
+The Interactivity of the website should be very good. 
+Push content to website to make students interested in the event.
+
+4. Deliverables
+I’ll deliver the following during the course of development:
+Feature specification - for each process and layout
+Product design - overall portal layout and design
+Test plan - to ensure the sanity of the project
+Development document - for each API endpoint 
+Source code - for webportal 
+5. Risk Management
+
+6. Scheduling and Estimates
+
+
+
+
+
